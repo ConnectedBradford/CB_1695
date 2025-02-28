@@ -1,1 +1,5 @@
-# CB_
+# CB_1695
+
+CY-P09-21-02-Data-to-support-Public-Health
+
+There are currently substantial health inequalities across Bradford District. The role of the Public Health Intelligence team within the City of Bradford Metropolitan District council primarily involves utilising data to support decision makers address health inequalities effectively. It is therefore essential that we are able to access all available data surrounding health outcomes in both Primary and Secondary care to help inform Public Health action and prioritise resources appropriately. By using the connecting cities linked database we will aim to: Identify some key potential predictors of poor health outcomes allowing us to recognise more vulnerable groups for targeting action at an earlier stage. Use the data for population health segmentation , Give us a better understanding of the relationship between, health, social care and the wider determinants e.g. education and housing.Overall, our aim is to improve the health of Bradford District population by drawing insights from the data for supporting evidence-based public health practice.
